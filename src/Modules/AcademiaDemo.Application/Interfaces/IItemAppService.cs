@@ -7,7 +7,7 @@ namespace AcademiaDemo.Application.Interfaces
 {
     public interface IItemAppService
     {
-        Task InsertAsync(ItemInput item);
+        Task<Item> InsertAsync(ItemInput item);
         Task<IEnumerable<Item>> GetAllAsync();
     }
 }
