@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {}
+    "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {}
   },
   "projects": {
-    "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+    "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+        "projectUniqueName": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
         "projectName": "AcademiaDemo.Domain",
-        "projectPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+        "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
+        "outputPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {
+    "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
+        "projectUniqueName": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
         "projectName": "AcademiaDemo.Infrastructure.Repository",
-        "projectPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
+        "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\obj\\",
+        "outputPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
-                "projectPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj"
+              "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+                "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj"
               }
             }
           }

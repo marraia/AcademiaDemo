@@ -29,8 +29,8 @@ namespace Stock.API.Controllers
         {
             try
             {
-                await _itemAppService.InsertAsync(input);
-                return Created("", "");
+                var item = await _itemAppService.InsertAsync(input);
+                return Created("", item);
             }
             catch (Exception ex)
             {

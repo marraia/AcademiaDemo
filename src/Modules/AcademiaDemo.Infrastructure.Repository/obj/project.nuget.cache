@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E7+O6FLk55R5OlUaOO2OBjhnadPeT4Z4xQulb3mgzmEyfnqKrTIWPFSepCVY/0LI4iCs4G5ktWosd7/2IOuBog==",
+  "dgSpecHash": "BN4rQzR2Z8lF4OYHduOCDQN2s4f9Fi7lfOuA6RRJOTOkBElC27ocWJbEizT08gW4ACea3HEaUByRNgTxNbm5Kw==",
   "success": true,
-  "projectFilePath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
+  "projectFilePath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
