@@ -1,0 +1,1 @@
+F:\academiademoapi\AcademiaDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
