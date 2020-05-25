@@ -32,7 +32,7 @@ namespace AcademiaDemo.Application.AppItem
         public async Task<Item> InsertAsync(ItemInput input)
         {
             if (string.IsNullOrEmpty(input.Description))
-                throw new ArgumentNullException("Descrição do produto é obrigatório!!");
+                throw new ArgumentNullException("Descrição do produto é obrigatório!!!!");
 
             if (input.Ammount <= 0)
                 throw new ArgumentNullException("Quantidade de estoque necessita ser maior que zero");
