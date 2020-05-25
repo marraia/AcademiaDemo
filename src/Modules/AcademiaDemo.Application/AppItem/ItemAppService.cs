@@ -29,7 +29,7 @@ namespace AcademiaDemo.Application.AppItem
                             .ConfigureAwait(false);
         }
 
-        public async Task InsertAsync(ItemInput input)
+        public async Task<Item> InsertAsync(ItemInput input)
         {
             if (string.IsNullOrEmpty(input.Description))
                 throw new ArgumentNullException("Descrição do produto é obrigatório");
@@ -48,6 +48,8 @@ namespace AcademiaDemo.Application.AppItem
             await _stockRepository
                     .InsertAsync(stock)
                     .ConfigureAwait(false);
+
+            return item;
         }
     }
 }
