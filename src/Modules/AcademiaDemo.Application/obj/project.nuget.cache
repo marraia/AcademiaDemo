@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WZBt0MgN3tCfgPSEvCy1gtZmGquQR8gsnEk4Fjjh7IZEz3CR1WFO1bGiQNHTcs/gWiVOlREf5sVPt8WZZfio+w==",
+  "dgSpecHash": "9g3m+t8696c0hHZlEBMgWmSls+b0c6DK28Bqv7sr0yfFUWUtfcDX0Vh5BND6HPRUe0UEDFW4XQ4TiyyzI+VWqw==",
   "success": true,
-  "projectFilePath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Application\\AcademiaDemo.Application.csproj",
+  "projectFilePath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Application\\AcademiaDemo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\elastic.apm\\1.5.1\\elastic.apm.1.5.1.nupkg.sha512",
