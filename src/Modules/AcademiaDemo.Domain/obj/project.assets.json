@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+      "projectUniqueName": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
       "projectName": "AcademiaDemo.Domain",
-      "projectPath": "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+      "projectPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
+      "outputPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

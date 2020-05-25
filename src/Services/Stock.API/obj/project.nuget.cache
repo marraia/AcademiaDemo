@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lnhxl3DggFffaQKnrl9L2FdunPD07Y0ZZkvqHLtEDZINJTEL3jBj7wjqijEhmCW7Ij3WMNHaqXoMKj9cUfGOWw==",
+  "dgSpecHash": "AAVMQQiGulaYXhjWjTZUBVPFib6ij41oN4uXpF3KR3KMhz8t8CGwIHQuAqg2DuaBUsoGKn9cY5/k1CGpzVseCA==",
   "success": true,
-  "projectFilePath": "F:\\_academia\\AcademiaDemo\\src\\Services\\Stock.API\\Stock.API.csproj",
+  "projectFilePath": "F:\\github\\AcademiaDemo\\src\\Services\\Stock.API\\Stock.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\elastic.apm\\1.5.1\\elastic.apm.1.5.1.nupkg.sha512",

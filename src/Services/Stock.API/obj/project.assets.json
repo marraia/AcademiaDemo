@@ -8051,11 +8051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\_academia\\AcademiaDemo\\src\\Services\\Stock.API\\Stock.API.csproj",
+      "projectUniqueName": "F:\\github\\AcademiaDemo\\src\\Services\\Stock.API\\Stock.API.csproj",
       "projectName": "Stock.API",
-      "projectPath": "F:\\_academia\\AcademiaDemo\\src\\Services\\Stock.API\\Stock.API.csproj",
+      "projectPath": "F:\\github\\AcademiaDemo\\src\\Services\\Stock.API\\Stock.API.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "F:\\_academia\\AcademiaDemo\\src\\Services\\Stock.API\\obj\\",
+      "outputPath": "F:\\github\\AcademiaDemo\\src\\Services\\Stock.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8074,11 +8074,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Application\\AcademiaDemo.Application.csproj": {
-              "projectPath": "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Application\\AcademiaDemo.Application.csproj"
+            "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Application\\AcademiaDemo.Application.csproj": {
+              "projectPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Application\\AcademiaDemo.Application.csproj"
             },
-            "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.IoC\\AcademiaDemo.Infrastructure.IoC.csproj": {
-              "projectPath": "F:\\_academia\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.IoC\\AcademiaDemo.Infrastructure.IoC.csproj"
+            "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.IoC\\AcademiaDemo.Infrastructure.IoC.csproj": {
+              "projectPath": "F:\\github\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.IoC\\AcademiaDemo.Infrastructure.IoC.csproj"
             }
           }
         }
