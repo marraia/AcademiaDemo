@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ferna\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\foes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+      "projectUniqueName": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
       "projectName": "AcademiaDemo.Domain",
-      "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
-      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
+      "projectPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+      "packagesPath": "C:\\Users\\foes\\.nuget\\packages\\",
+      "outputPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\foes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,18 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -34,3 +34,15 @@ F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Reposito
 F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.csproj.CopyComplete
 F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.dll
 F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.pdb
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\bin\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.deps.json
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\bin\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.dll
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\bin\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.pdb
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.dll
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.pdb
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.csprojAssemblyReference.cache
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.AssemblyInfo.cs
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.csproj.CopyComplete
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.dll
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Infrastructure.Repository\obj\Debug\netcoreapp3.1\AcademiaDemo.Infrastructure.Repository.pdb

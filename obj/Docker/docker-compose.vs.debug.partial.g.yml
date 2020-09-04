@@ -12,19 +12,19 @@ services:
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_stock.api$
+      - NUGET_FALLBACK_PACKAGES=
     volumes:
-      - F:\github\AcademiaDemo\src\Services\Stock.API:/app
-      - F:\github\AcademiaDemo:/src
-      - C:\Users\ferna\vsdbg\vs2017u5:/remote_debugger:rw
-#$nuget_volume_mapping_stock.api$
+      - C:\_test\AcademiaDemo\src\Services\Stock.API:/app
+      - C:\_test\AcademiaDemo:/src
+      - C:\Users\foes\vsdbg\vs2017u5:/remote_debugger:rw
+      - C:\Users\foes\.nuget\packages\:/root/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
       - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
 
     entrypoint: tail -f /dev/null
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_stock.api$ \"/src/../../_medium/AcademiaDemo/src/Services/Stock.API/bin/Debug/netcoreapp3.1/Stock.API.dll\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"F:/_medium/AcademiaDemo/src/Services/Stock.API/bin/Debug/netcoreapp3.1/Stock.API.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
     tty: true

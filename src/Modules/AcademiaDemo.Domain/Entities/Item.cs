@@ -4,6 +4,7 @@ namespace AcademiaDemo.Domain.Entities
 {
     public class Item
     {
+        public Item() { }
         public Item(
             string description,
             decimal price

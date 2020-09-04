@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {}
+    "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {}
   },
   "projects": {
-    "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+    "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+        "projectUniqueName": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
         "projectName": "AcademiaDemo.Domain",
-        "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
-        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
+        "projectPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\foes\\.nuget\\packages\\",
+        "outputPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\foes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,35 +47,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {
+    "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
+        "projectUniqueName": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
         "projectName": "AcademiaDemo.Infrastructure.Repository",
-        "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
-        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\obj\\",
+        "projectPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\AcademiaDemo.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\foes\\.nuget\\packages\\",
+        "outputPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Infrastructure.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\foes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
-                "projectPath": "F:\\academiademoapi\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj"
+              "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+                "projectPath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj"
               }
             }
           }
@@ -133,18 +121,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

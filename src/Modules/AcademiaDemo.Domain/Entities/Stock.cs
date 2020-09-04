@@ -4,6 +4,7 @@ namespace AcademiaDemo.Domain.Entities
 {
     public class Stock
     {
+        public Stock() { }
         public Stock(
             Guid itemId,
             int ammount

@@ -24,7 +24,7 @@ services:
     - published: 9200
       target: 9200
     volumes:
-    - F:\github\AcademiaDemo\elastic:/usr/share/elasticsearch/data:rw
+    - C:\_test\AcademiaDemo\elastic:/usr/share/elasticsearch/data:rw
   kibana:
     container_name: kibana
     depends_on:
@@ -42,7 +42,7 @@ services:
       target: 27017
   payment.api:
     build:
-      context: F:\github\AcademiaDemo
+      context: C:\_test\AcademiaDemo
       dockerfile: src/Services/Payment.API/Dockerfile
     depends_on:
     - elasticsearch
@@ -55,7 +55,7 @@ services:
       target: 80
   sale.api:
     build:
-      context: F:\github\AcademiaDemo
+      context: C:\_test\AcademiaDemo
       dockerfile: src/Services/Sale.API/Dockerfile
     depends_on:
     - elasticsearch
@@ -68,7 +68,7 @@ services:
       target: 80
   stock.api:
     build:
-      context: F:\github\AcademiaDemo
+      context: C:\_test\AcademiaDemo
       dockerfile: src/Services/Stock.API/Dockerfile
     depends_on:
     - elasticsearch

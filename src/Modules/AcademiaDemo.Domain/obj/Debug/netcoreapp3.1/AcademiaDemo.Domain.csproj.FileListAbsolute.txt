@@ -25,3 +25,12 @@ F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcor
 F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.csproj.CoreCompileInputs.cache
 F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.dll
 F:\academiademoapi\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.pdb
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.deps.json
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.dll
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.pdb
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.AssemblyInfoInputs.cache
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.AssemblyInfo.cs
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.csproj.CoreCompileInputs.cache
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.dll
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.pdb
+C:\_test\AcademiaDemo\src\Modules\AcademiaDemo.Domain\obj\Debug\netcoreapp3.1\AcademiaDemo.Domain.csprojAssemblyReference.cache
