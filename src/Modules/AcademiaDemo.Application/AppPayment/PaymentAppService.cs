@@ -23,7 +23,7 @@ namespace AcademiaDemo.Application.AppPayment
             var payment = new Payment(input.CardNumber, input.SubDivision, input.Total);
 
             if (!payment.ValidateCreditCard())
-                throw new ArgumentException("Cartão de crédito inválido");
+                throw new ArgumentException("Cartao de credito invalido");
 
             payment.CalculatedSubDivision();
 

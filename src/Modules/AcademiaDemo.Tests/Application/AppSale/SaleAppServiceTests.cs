@@ -58,7 +58,7 @@ namespace AcademiaDemo.Tests.AppSale
             act
             .Should()
             .Throw<Exception>()
-            .WithMessage("Para a venda, é necessário pelo menos informar um item");
+            .WithMessage("Para a venda, e necessario pelo menos informar um item");
         }
     }
 }

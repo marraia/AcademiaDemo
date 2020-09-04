@@ -66,7 +66,7 @@ namespace AcademiaDemo.Tests.AppPayment
             act
             .Should()
             .Throw<ArgumentException>()
-            .WithMessage("Cartão de crédito inválido");
+            .WithMessage("Cartao de credito invalido");
             
             await subPaymentRepository
                     .DidNotReceive()

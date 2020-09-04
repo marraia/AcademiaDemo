@@ -46,7 +46,7 @@ namespace AcademiaDemo.Application.AppSale
             var total = 0.00M;
 
             if (input.Itens.Count <= 0) 
-                throw new Exception("Para a venda, é necessário pelo menos informar um item");
+                throw new Exception("Para a venda, e necessario pelo menos informar um item");
                 
 
             foreach (var itemId in input.Itens)
