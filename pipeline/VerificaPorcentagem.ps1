@@ -7,7 +7,7 @@ $xmlExecucaoCoverage = [xml](get-content $XmlResultado)
 $variavel=$xmlExecucaoCoverage.CoverageReport.Summary.Linecoverage
 $porcentagem = $variavel -replace '%'
 
-If ([double]::Parse($porcentagem) -ge 30.0)
+If ([double]::Parse($porcentagem) -ge 45.0)
 {
     Write-Host "Parabéns, a cobertura de testes atingiu"$variavel "de cobertura de código!" -ForegroundColor Green
 }
