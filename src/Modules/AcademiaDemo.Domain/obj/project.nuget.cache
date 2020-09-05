@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UYEAw2VjpTmPfybOtKU6esc1smhb+rxXVn2/wcsMQnSPQrpRBEghkhiWvJLFVwo1t/gAjJac5WSJdlz0F2wtWA==",
+  "dgSpecHash": "ksl7qUhozrnCsxHOAfGhGLJbUokYJ1jqjfztlDrki5DEHq8CiZuqypnN6HL/RRgunWfvLvsw3MitTAF3Dfu9mg==",
   "success": true,
-  "projectFilePath": "C:\\_test\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\github\\AcademiaDemo2\\AcademiaDemo\\src\\Modules\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
