@@ -54,7 +54,7 @@ namespace AcademiaDemo.Tests.AppSale
             // Act
             Action act = () => { service.InsertAsync(input).GetAwaiter().GetResult(); };
 
-            // Assert
+            //Assert
             act
             .Should()
             .Throw<Exception>()
