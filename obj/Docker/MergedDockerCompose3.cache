@@ -1,0 +1,74 @@
+services:
+  apm-server:
+    container_name: apm-server
+    depends_on:
+    - elasticsearch
+    environment:
+      apm-server.host: '"0.0.0.0:8200"'
+      output.elasticsearch.hosts: '[''http://elasticsearch:9200'']'
+      setup.kibana.host: '"kibana:5601"'
+    image: docker.elastic.co/apm/apm-server:7.7.0
+    ports:
+    - 8200:8200/tcp
+    - 8201:8200/tcp
+  elasticsearch:
+    container_name: elasticsearch
+    environment:
+      ES_JAVA_OPTS: -Xms512m -Xmx512m
+      bootstrap.memory_lock: "true"
+      discovery.type: single-node
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.7.0
+    ports:
+    - 9200:9200/tcp
+    volumes:
+    - C:\_test\Apre\AcademiaDemo\elastic:/usr/share/elasticsearch/data:rw
+  kibana:
+    container_name: kibana
+    depends_on:
+    - elasticsearch
+    environment:
+      ELASTICSEARCH_URL: http://elasticsearch:9200
+    image: docker.elastic.co/kibana/kibana:7.7.0
+    ports:
+    - 5601:5601/tcp
+  nosql.server:
+    image: mongo
+    ports:
+    - 17017:27017/tcp
+  payment.api:
+    build:
+      context: C:\_test\Apre\AcademiaDemo
+      dockerfile: src/Services/Payment.API/Dockerfile
+    depends_on:
+    - elasticsearch
+    - nosql.server
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: paymentapi
+    ports:
+    - 2222:80/tcp
+  sale.api:
+    build:
+      context: C:\_test\Apre\AcademiaDemo
+      dockerfile: src/Services/Sale.API/Dockerfile
+    depends_on:
+    - elasticsearch
+    - nosql.server
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: saleapi
+    ports:
+    - 3333:80/tcp
+  stock.api:
+    build:
+      context: C:\_test\Apre\AcademiaDemo
+      dockerfile: src/Services/Stock.API/Dockerfile
+    depends_on:
+    - elasticsearch
+    - nosql.server
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: stockapi
+    ports:
+    - 4444:80/tcp
+version: '3.4'

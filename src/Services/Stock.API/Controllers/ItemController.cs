@@ -44,7 +44,7 @@ namespace Stock.API.Controllers
         [ProducesResponseType(500)]
         public async Task<IActionResult> Get()
         {
-            return Ok(await _itemAppService.GetAllAsync());
+            return Ok(await _itemAppService.GetAllAsync());  
         }
     }
 }
